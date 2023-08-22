@@ -1,0 +1,21 @@
+.tableau-style {
+    border-collapse: collapse;
+    width: 70%;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.15);
+    margin:100px auto;
+    border:2px solid midnightblue;
+    text-align:center;
+}
+
+.tableau-style thead{
+    background-color: midnightblue;
+    color:#fff;
+    text-align:center;
+    border:1px solid #ddd;
+}
+
+.tableau-style th,
+.tableau-style td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
